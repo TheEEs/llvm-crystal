@@ -1,0 +1,13 @@
+name: llvm-test
+version: 0.1.0
+
+authors:
+  - TheEEs <visualbasic2013@hotmail.com>
+
+targets:
+  llvm-test:
+    main: src/llvm-test.cr
+
+crystal: 0.35.1
+
+license: MIT
